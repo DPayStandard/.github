@@ -1,7 +1,7 @@
 ![Image](https://github.com/DPayStandard/.github/assets/107257423/381c7364-881b-4ce5-8b8e-d1cba0f77859)
 
 # D'Pay - Pay Difference
-> 혜택? 주식? 부동산? 만보기..?
+> 혜택? 주식? 부동산? 만보기..?  
 > 과도한 서비스들에 지친 사람들을 위해.  
 > 남들과는 다르게, 남들보다 한번에, 한번에 딱.  
 > D'Pay  
