@@ -1,4 +1,5 @@
-![Image](https://github.com/DPayStandard/.github/assets/107257423/381c7364-881b-4ce5-8b8e-d1cba0f77859)
+![Image](https://github.com/DPayStandard/.github/assets/107257423/8637963c-b4b6-4c72-9bcf-e3a7766932dd)
+
 
 # D'Pay - Pay Difference
 > 혜택? 주식? 부동산? 만보기..?  
