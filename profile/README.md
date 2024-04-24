@@ -1,10 +1,7 @@
-![Image](https://github.com/DPayStandard/.github/assets/107257423/8637963c-b4b6-4c72-9bcf-e3a7766932dd)
+![Back](https://github.com/DPayStandard/.github/assets/107257423/663c758e-412d-4592-ba7d-5828f0fbf56d)
 
 
-# D'Pay - Pay Different
-> 혜택? 주식? 부동산? 만보기..?  
-> 과도한 서비스들에 지친 사람들을 위해.  
-> 남들과는 다르게, 한번에 딱.  
-> D'Pay  
+# All Different, D'Prime
+> 다양한 서비스들을 깔끔한 디자인, 편리한 기능과 함께 제공합니다.
 
-단순 재미로 만들어보게 된 간편결제 서비스입니다.
+~~(재미로 만들고 있는 프로젝트이자 여러 프로젝트들을 포함한 대규모 프로젝트입니다.)
